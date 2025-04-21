@@ -32,5 +32,11 @@ a {  /* change the appearance of ALL links */
     background: white;  /* pick a color */
     border-radius: 25%;
 }
+p{
+	font-size: 20px;
+	font-family: 'IBM plex sans', sans-serif;
+	color:#333333;
+	line-height: 1.5;
+}
 
 
