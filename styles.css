@@ -8,8 +8,8 @@ h1 {
 	font style: bold; 
 }
 project img{
-    width: 300px;
-    height: 300px;
+    width: 100px;
+    height: auto;
     margin: 10px;
     border: 2px solid rgb(126, 14, 201); /* choose a color */
     display: block;
