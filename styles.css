@@ -16,6 +16,7 @@ h1 {
 .project {
     width: 30%;
     margin: 10px;
+    min-width: 300px; 
     padding: 20px 10px;
     background: #C4CDC1;
     border-radius: 25%;
